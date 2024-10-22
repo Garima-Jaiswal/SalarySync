@@ -16,7 +16,6 @@
 
 - **Backend**: Java (JDK), JDBC for database connectivity
 - **Database**: MySQL or any preferred relational database
-- **Frontend**: JavaFX or Spring MVC for user interface (optional)
 - **Build Tools**: Maven or Gradle
 - **Version Control**: Git/GitHub
 
